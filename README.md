@@ -1,4 +1,4 @@
-# 📊 SQL Case Studies: STD Infection Analysis
+# 30 SQL Challenges on Public Health Data
 
 Welcome! This repository contains 30+ SQL questions and solutions using a dataset about STD infection rates across the United States. The questions range from beginner-level basics to intermediate/ Advanced challenges featuring window functions, CTEs, and more.
 
