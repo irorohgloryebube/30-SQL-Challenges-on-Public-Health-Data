@@ -10,7 +10,7 @@ Welcome! This repository contains 30 SQL questions and solutions using a dataset
 ## 📂 File Structure
 
 - `beginner-and-intermediate-queries.sql` –starter, analytical and complex queries
-- `dataset-description.md` – A quick overview of the dataset schema
+- `dataset-` – dataset used
 
 ## 🔍 Dataset Used
 
@@ -35,4 +35,4 @@ The data is structured around STD cases in the U.S., including attributes like:
 
 Built as part of my learning journey with public health datasets and structured query language. I hope it helps others too .
 
--
+
